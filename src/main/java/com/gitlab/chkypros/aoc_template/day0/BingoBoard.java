@@ -1,4 +1,4 @@
-package com.gitlab.chkypros.aoc_template.day4;
+package com.gitlab.chkypros.aoc_template.day0;
 
 public class BingoBoard {
     public static final int SIZE = 5;

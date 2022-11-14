@@ -1,4 +1,4 @@
-package com.gitlab.chkypros.aoc_template.day4;
+package com.gitlab.chkypros.aoc_template.day0;
 
 import java.util.Arrays;
 import java.util.HashSet;

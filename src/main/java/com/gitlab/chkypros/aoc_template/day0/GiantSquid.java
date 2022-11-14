@@ -1,4 +1,4 @@
-package com.gitlab.chkypros.aoc_template.day4;
+package com.gitlab.chkypros.aoc_template.day0;
 
 import com.gitlab.chkypros.aoc_template.AbstractSolution;
 
